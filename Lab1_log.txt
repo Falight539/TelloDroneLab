@@ -1,0 +1,61 @@
+[INFO] tello.py - 421 - Send command: 'takeoff'
+[INFO] tello.py - 445 - Response takeoff: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point A
+5
+92
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point B
+11
+92
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point C
+16
+92
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point D
+22
+90
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point A
+27
+89
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point B
+33
+88
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point C
+38
+86
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'forward 100'
+point D
+44
+85
+[INFO] tello.py - 445 - Response forward 100: 'ok'
+[INFO] tello.py - 421 - Send command: 'ccw 90'
+[INFO] tello.py - 445 - Response ccw 90: 'ok'
+[INFO] tello.py - 421 - Send command: 'land'
+[INFO] tello.py - 445 - Response land: 'ok'
+52
